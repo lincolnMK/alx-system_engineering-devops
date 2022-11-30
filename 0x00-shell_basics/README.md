@@ -5,7 +5,7 @@ this is a shell script
 3 the long format 
 4 hidden files
 5 i love numbers 
-6 welcome
+6 about welcome to my first directory
 7 betty in my first directory 
 8 bye bye betty 
 9 bye bye my first directory
